@@ -1,0 +1,15 @@
+[
+    {
+        "volunteerId": "String",
+        "volunteerName": "String",
+        "phone" :"String",
+        "email" :"String",
+        "adress": "String",
+        "city": "String",
+        "fieldOfVolunteering": "String",
+        "branch" :"String",
+        "disabledVehicle" : "Bit"
+        
+    }
+
+]

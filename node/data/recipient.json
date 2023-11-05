@@ -1,0 +1,13 @@
+[
+    {
+        "recipientId": "String",
+        "recipientName": "String",
+        "phone": "String",
+        "email": "String",
+        "adress": "String",
+        "city": "String",
+        "kindOfHelp": "String",
+        "branch": "String",
+        "needDisabledVehicle": "Bit"
+    }
+]

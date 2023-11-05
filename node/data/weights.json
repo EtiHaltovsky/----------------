@@ -1,0 +1,10 @@
+[
+    {
+        "weightId": "int",
+        "weightName": "String",
+        "fieldOfVolunteering": "String",
+        "branch": "String",
+        "disabledVehicle": "Bit",
+        "KnowledgeOfFirstAid": "Bit"
+    }
+]
